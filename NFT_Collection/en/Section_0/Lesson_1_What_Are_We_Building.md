@@ -20,24 +20,17 @@ This stuff is very new, there's a lot of hype around it, and it can be super dif
 
 With this project, you're going to learn about crypto tech by actually writing code and just hopping into the good stuff. No B.S. We'll also go over theory and more in-depth concepts, but, it will all be structured around your project.
 
-👀 Earn a _buildspace NFT by the end.
+👀 Earn a buildspace NFT by the end.
 -------------------
 
 When you reach the end of this project, you'll be able to earn an NFT.
 
-**You can only claim an NFT if you finish the project within 7-days of the kick-off. After that, you won't be able to claim it!**
+**We'll airdrop an NFT to your connected wallet if you finish the project within 7-days of the kick-off.**
 
 ![Untitled](https://i.imgur.com/HlRJTTf.png)
 
-This NFT not only looks cool, but it will also get you access to secret opportunities in crypto such as — full-time work, internships, and contract work. This initiative is a work in progress :).
-
 Note: instead of "Capella", yours would say name of your cohort — each cohort is named after a star! Also, the # at the bottom right will be the # minted which depends on when you claim the NFT.
 
-To claim the NFT, you'll need to pay [gas fees](https://ethereum.org/en/developers/docs/gas/) which are fees that Ethereum charges you to perform transactions on the network. Gas fees to redeem the NFT vary. I recommend transferring around $30 - $50 worth of ETH over to your wallet.
-
-If you don't know how to do this, don't worry about it for now — not required!
-
-*Note: The project itself doesn't require you to have any real money at all! We'll still be deploying to the blockchain using something special Ethereum provides us called a "testnet".*
 
 🛠 What we're building
 -------------------
